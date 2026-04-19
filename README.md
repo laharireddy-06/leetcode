@@ -95,6 +95,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/laharireddy-06/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Math
@@ -152,6 +153,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/laharireddy-06/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/laharireddy-06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/laharireddy-06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
