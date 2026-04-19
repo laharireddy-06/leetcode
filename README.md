@@ -104,6 +104,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/laharireddy-06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/laharireddy-06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/laharireddy-06/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/laharireddy-06/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -151,6 +152,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/laharireddy-06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/laharireddy-06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 ## Simulation
