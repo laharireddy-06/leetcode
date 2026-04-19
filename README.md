@@ -27,6 +27,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/laharireddy-06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/laharireddy-06/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/laharireddy-06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -39,6 +40,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/laharireddy-06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/laharireddy-06/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/laharireddy-06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -114,4 +116,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/laharireddy-06/leetcode/tree/main/0622-design-circular-queue/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/laharireddy-06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/laharireddy-06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
