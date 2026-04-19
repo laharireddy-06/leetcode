@@ -15,6 +15,7 @@
 | [0994-rotting-oranges](https://github.com/laharireddy-06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/laharireddy-06/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/laharireddy-06/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/laharireddy-06/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,8 +158,13 @@
 | [0155-min-stack](https://github.com/laharireddy-06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/laharireddy-06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/laharireddy-06/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/laharireddy-06/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
