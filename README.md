@@ -10,6 +10,7 @@
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/laharireddy-06/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/laharireddy-06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/laharireddy-06/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -151,4 +152,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/laharireddy-06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0946-validate-stack-sequences](https://github.com/laharireddy-06/leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
