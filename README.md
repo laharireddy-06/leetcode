@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/laharireddy-06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -19,6 +20,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/laharireddy-06/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/laharireddy-06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -28,6 +30,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0210-course-schedule-ii](https://github.com/laharireddy-06/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/laharireddy-06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -39,6 +42,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/laharireddy-06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/laharireddy-06/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -59,6 +63,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/laharireddy-06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Topological Sort
