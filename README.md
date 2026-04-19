@@ -24,6 +24,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -138,6 +139,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/laharireddy-06/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@
 | [0020-valid-parentheses](https://github.com/laharireddy-06/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/laharireddy-06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/laharireddy-06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/laharireddy-06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/laharireddy-06/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/laharireddy-06/leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -193,6 +196,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
