@@ -133,6 +133,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0622-design-circular-queue](https://github.com/laharireddy-06/leetcode/tree/main/0622-design-circular-queue/) | Medium |
@@ -184,4 +185,8 @@
 | [0739-daily-temperatures](https://github.com/laharireddy-06/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/laharireddy-06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/laharireddy-06/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
