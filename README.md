@@ -133,6 +133,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -190,6 +191,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
