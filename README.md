@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0283-move-zeroes](https://github.com/laharireddy-06/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/laharireddy-06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/laharireddy-06/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -25,6 +26,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/laharireddy-06/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/laharireddy-06/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
