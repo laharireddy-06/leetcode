@@ -21,6 +21,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/laharireddy-06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -131,6 +133,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0622-design-circular-queue](https://github.com/laharireddy-06/leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Tree
