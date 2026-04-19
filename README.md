@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0200-number-of-islands](https://github.com/laharireddy-06/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/laharireddy-06/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -19,6 +20,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Depth-First Search
@@ -68,6 +70,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0997-find-the-town-judge](https://github.com/laharireddy-06/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -86,6 +89,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
