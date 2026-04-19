@@ -14,6 +14,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0997-find-the-town-judge](https://github.com/laharireddy-06/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
@@ -85,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
