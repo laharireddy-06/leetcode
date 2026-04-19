@@ -25,6 +25,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/laharireddy-06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/laharireddy-06/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/laharireddy-06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
@@ -107,6 +108,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/laharireddy-06/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0344-reverse-string](https://github.com/laharireddy-06/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
