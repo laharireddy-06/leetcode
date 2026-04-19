@@ -133,6 +133,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/laharireddy-06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/laharireddy-06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -154,6 +155,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/laharireddy-06/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -189,4 +191,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/laharireddy-06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/laharireddy-06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
