@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/laharireddy-06/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/laharireddy-06/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/laharireddy-06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/laharireddy-06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/laharireddy-06/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/laharireddy-06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/laharireddy-06/leetcode/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/laharireddy-06/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
@@ -68,6 +70,7 @@
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/laharireddy-06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/laharireddy-06/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/laharireddy-06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/laharireddy-06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/laharireddy-06/leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/laharireddy-06/leetcode/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
@@ -100,6 +103,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/laharireddy-06/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/laharireddy-06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0721-accounts-merge](https://github.com/laharireddy-06/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/laharireddy-06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0997-find-the-town-judge](https://github.com/laharireddy-06/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -167,6 +171,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/laharireddy-06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/laharireddy-06/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/laharireddy-06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/laharireddy-06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +182,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/laharireddy-06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/laharireddy-06/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/laharireddy-06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/laharireddy-06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
