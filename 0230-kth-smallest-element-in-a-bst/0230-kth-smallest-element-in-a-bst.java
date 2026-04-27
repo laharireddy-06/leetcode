@@ -13,26 +13,27 @@
  *     }
  * }
  */
+import java.util.*;
+
 class Solution {
-    private int count = 0;
-    private int result = -1;
-    
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root, k);
-        return result;
-    }
-    
-    private void inorder(TreeNode node, int k) {
-        if (node == null) return;
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root;
         
-        inorder(node.left, k);
-        
-        count++;
-        if (count == k) {
-            result = node.val;
-            return;
+        while (curr != null || !stack.isEmpty()) {
+            // Go left as far as possible
+            while (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
+            }
+            // Process node
+            curr = stack.pop();
+            k--;
+            if (k == 0) return curr.val;
+            // Move right
+            curr = curr.right;
         }
         
-        inorder(node.right, k);
+        return -1; // should not happen if input is valid
     }
 }
